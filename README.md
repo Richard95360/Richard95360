@@ -60,4 +60,7 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubuserc…6f723d253233463744463145">
 <img src="https://camo.githubusercontent.com/b8461917fc768add9be8322c0549d8793830a941d32dc3b3d18fa5236b80768c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e4f44454d4f4e2d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64656d6f6e266c6f676f436f6c6f723d25424244454144" alt="Nodemon" data-canonical-src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&amp;logo=nodemon&amp;logoColor=%BBDEAD" style="max-width: 100%;">
 </a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubuserc…6f723d253233463744463145">
+<img src="https://camo.githubusercontent.com/1013a612eeff89fdd69825f9ca22b4830a73b60ab7eb471f64627759efdfe0eb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706e706d2d2532333461346134612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706e706d266c6f676f436f6c6f723d663639323230" alt="PNPM" data-canonical-src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&amp;logo=pnpm&amp;logoColor=f69220" style="max-width: 100%;">
+</a>
 
