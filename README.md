@@ -27,4 +27,10 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubuserc…6f723d253233463744463145">
 <img src="https://camo.githubusercontent.com/1f99a0065782010387223197cdd9dd16e0a31702c8fb5dec1d3cec10c63cbce1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702d2532333835313146412e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" alt="Bootstrap" data-canonical-src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" style="max-width: 100%;">
 </a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubuserc…6f723d253233463744463145">
+<img src="https://camo.githubusercontent.com/a6d8d36938723d10c583712f831eeca2144cc6e20f9493ce998cca15c0d04826/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f766974652d2532333634364346462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697465266c6f676f436f6c6f723d7768697465" alt="Vite" data-canonical-src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&amp;logo=vite&amp;logoColor=white" style="max-width: 100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubuserc…6f723d253233463744463145">
+<img src="https://camo.githubusercontent.com/29e7fc6c62f61f432d3852fbfa4190ff07f397ca3bde27a8196bcd5beae3ff77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7374677265732d2532333331363139322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465" alt="Postgres" data-canonical-src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" style="max-width: 100%;">
+</a>
 
