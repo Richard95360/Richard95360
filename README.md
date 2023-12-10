@@ -57,4 +57,7 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubuserc…6f723d253233463744463145">
 <img src="https://camo.githubusercontent.com/e1d814ec600df8dc2af0c6a144e7b8578e6803f9ec855f5a829f140409db7788/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e504d2d2532334342333833372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465" alt="NPM" data-canonical-src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white" style="max-width: 100%;">
 </a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubuserc…6f723d253233463744463145">
+<img src="https://camo.githubusercontent.com/b8461917fc768add9be8322c0549d8793830a941d32dc3b3d18fa5236b80768c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e4f44454d4f4e2d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64656d6f6e266c6f676f436f6c6f723d25424244454144" alt="Nodemon" data-canonical-src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&amp;logo=nodemon&amp;logoColor=%BBDEAD" style="max-width: 100%;">
+</a>
 
