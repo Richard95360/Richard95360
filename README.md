@@ -3,9 +3,9 @@
 
 <h1>Stack Tech :</h1>
 
-</a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubuserc…6f723d253233463744463145">
 ![JAVASCRIPT](https://github.com/Richard95360/Richard95360/assets/20089119/8a05dad1-fd5b-4a63-8c2b-4e3b1b12eac7)
-<a>
+<a/>
 
 
 
