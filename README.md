@@ -6,5 +6,3 @@
 
 [JAVASCRIPT](https://github.com/Richard95360/Richard95360/assets/20089119/ffbc47f2-1951-4e48-8e5b-74489cc80439)"
 
-
-![react](https://github.com/Richard95360/Richard95360/assets/20089119/ffbc47f2-1951-4e48-8e5b-74489cc80439)
