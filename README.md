@@ -54,4 +54,7 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubuserc…6f723d253233463744463145">
 <img src="https://camo.githubusercontent.com/8855980a487f9e31426fbfc2cbbfdda5aa3b7f1d390e262e652e639e911b3d87/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6573746a732d2532334530323334452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6573746a73266c6f676f436f6c6f723d7768697465" alt="NestJS" data-canonical-src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&amp;logo=nestjs&amp;logoColor=white" style="max-width: 100%;">
 </a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubuserc…6f723d253233463744463145">
+<img src="https://camo.githubusercontent.com/e1d814ec600df8dc2af0c6a144e7b8578e6803f9ec855f5a829f140409db7788/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e504d2d2532334342333833372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465" alt="NPM" data-canonical-src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white" style="max-width: 100%;">
+</a>
 
