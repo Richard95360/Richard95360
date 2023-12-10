@@ -16,6 +16,12 @@
 <img src="https://camo.githubusercontent.com/59c7d466db154ae0912f313e45c9bf725173a12971bc241d680b78492aeba3c6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7675652e6a732d2532333335343935652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d767565646f746a73266c6f676f436f6c6f723d253233344643303844" alt="Vue.js" data-canonical-src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=%234FC08D" style="max-width: 100%;">
 </a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubuserc…6f723d253233463744463145">
+<img src="https://camo.githubusercontent.com/6652e28a6b3f61bd6821ac30960a9533635caa0027693251f057f64f35f7daad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e7578742d3030324533423f7374796c653d666f722d7468652d6261646765266c6f676f3d6e7578742e6a73266c6f676f436f6c6f723d23303044433832" alt="Nuxt JS" data-canonical-src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&amp;logo=nuxt.js&amp;logoColor=#00DC82" style="max-width: 100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubuserc…6f723d253233463744463145">
 <img src="https://camo.githubusercontent.com/e6b67b27998fca3bccf4c0ee479fc8f9de09d91f389cccfbe6cb1e29c10cfbd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="CSS3" data-canonical-src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubuserc…6f723d253233463744463145">
+<img src="https://camo.githubusercontent.com/ec8056bddf659d21de39b358d9786e56731cd767117e091348411666a5e7eee6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7461696c77696e646373732d2532333338423241432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465" alt="TailwindCSS" data-canonical-src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" style="max-width: 100%;">
 </a>
 
