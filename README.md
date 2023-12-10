@@ -72,4 +72,7 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubuserc…6f723d253233463744463145">
 <img src="https://camo.githubusercontent.com/b88b9be1ef85a3166327e2b2d5a188df1a7d64ad2c7fa1276607b03c182fa470/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5468796d656c6561662d2532333030354330462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d5468796d656c656166266c6f676f436f6c6f723d7768697465" alt="Thymeleaf" data-canonical-src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&amp;logo=Thymeleaf&amp;logoColor=white" style="max-width: 100%;">
 </a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubuserc…6f723d253233463744463145">
+<img src="https://camo.githubusercontent.com/3029ebce543b028f460e602049059a0e599d1c5cae5bd4d6be0cd9a177055c9c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7376656c74652d2532336631343133642e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7376656c7465266c6f676f436f6c6f723d7768697465" alt="Svelte" data-canonical-src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&amp;logo=svelte&amp;logoColor=white" style="max-width: 100%;">
+</a>
 
