@@ -69,4 +69,7 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubuserc…6f723d253233463744463145">
 <img src="https://camo.githubusercontent.com/fd232c52265a587ee5408f80de8736329ae914ca10caa506e4133cb0c5286a10/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7961726e2d2532333243384542422e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7961726e266c6f676f436f6c6f723d7768697465" alt="Yarn" data-canonical-src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&amp;logo=yarn&amp;logoColor=white" style="max-width: 100%;">
 </a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubuserc…6f723d253233463744463145">
+<img src="https://camo.githubusercontent.com/b88b9be1ef85a3166327e2b2d5a188df1a7d64ad2c7fa1276607b03c182fa470/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5468796d656c6561662d2532333030354330462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d5468796d656c656166266c6f676f436f6c6f723d7768697465" alt="Thymeleaf" data-canonical-src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&amp;logo=Thymeleaf&amp;logoColor=white" style="max-width: 100%;">
+</a>
 
