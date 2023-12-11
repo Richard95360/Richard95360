@@ -3,7 +3,7 @@
  💫 Developpeur Full/Stack React & Angular & Vue
 </H1><br/>
 <p class="md:flex justify-between block container">
-Passionné par le développement Front-end, je suis spécialisé dans les frameworks modernes tels que React.js, Angular, et Vue.js.<br>
+Passionné par le développement Front-end, je suis spécialisé dans les frameworks modernes tels que <em>React.js</em>, Angular, et Vue.js.<br>
 Fort de 9 années d'expérience, j'ai contribué au succès de projets variés en concevant des interfaces utilisateur robustes et intuitives.<br>
 Mon engagement envers la qualité du code et ma capacité à résoudre des problèmes complexes font de moi un développeur Front-end fiable et efficace.
 </p>
