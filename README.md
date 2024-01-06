@@ -26,7 +26,7 @@ Mon engagement envers la qualité du code et ma capacité à résoudre des probl
 </a>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubuserc…6f723d253233463744463145">
-<img  alt="React" data-canonical-src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" style="max-width: 100%;">
+<img  alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" style="max-width: 100%;">
 </a>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubuserc…6f723d253233463744463145">
