@@ -42,7 +42,7 @@ Mon engagement envers la qualité du code et ma capacité à résoudre des probl
 </a>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubuserc…6f723d253233463744463145">
-<img alt="Nuxt JS" data-canonical-src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&amp;logo=nuxt.js&amp;logoColor=#00DC82" style="max-width: 100%;">
+<img alt="Nuxt JS" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&amp;logo=nuxt.js&amp;logoColor=#00DC82" style="max-width: 100%;">
 </a>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubuserc…6f723d253233463744463145">
