@@ -131,6 +131,5 @@ Mon engagement envers la qualité du code et ma capacité à résoudre des probl
 </a> 
 <a target="_blank" rel="noopener noreferrer nofollow" <img width="48%" alt="larymak" src="https://github-readme-stats.vercel.app/api?username=larymak&amp;show_icons=true&amp;theme=dracula&amp;title_color=ff8000&amp;text_color=ffffff&amp;bg_color=6a6a6a&amp;locale=en&amp;hide_border=true" style="max-width: 100%;">
 </a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b8ce7b006ef6b25826a08bfe23cd652e155e5d1be79b97a6725fb0310faba2cb/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6c6172796d616b267468656d653d68696768636f6e747261737426686964655f626f726465723d74727565"><img width="48%"  alt="larymak" src="https://github-readme-streak-stats.herokuapp.com/?user=larymak&amp;theme=highcontrast&amp;hide_border=true" style="max-width: 100%;">
-</a>
+
 </p>
